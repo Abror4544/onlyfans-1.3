@@ -291,6 +291,7 @@ footer .h5:after, footer h5:after{
   .header-imgblock img {
     z-index: -1;
     margin-bottom: 20px;
+    height: 90vw;
   }
 
   .header nav {
